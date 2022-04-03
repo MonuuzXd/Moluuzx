@@ -39,24 +39,30 @@
 <a href="https://t.me/moonuuuzking"> <img src="https://img.shields.io/badge/Update-Channel-green?style=for-the-badge&logo=telegram" alt="Update Channel" /> </a>
 </p>
 
-<h2 align="center">
-    ──「 CREDIT 」──
-</h2>
-
-<p align="center">
-<a href="https://github.com/shiinobu"> <img src="https://img.shields.io/badge/Vain-Github-magenta?style=for-the-badge&logo=github" alt="Vain Github" /> </a>
-<a href="https://github.com/kennedy-ex"> <img src="https://img.shields.io/badge/Sena-Github-magenta?style=for-the-badge&logo=github" alt="Sena Github" /> </a>
-<a href="https://github.com/Aryazakaria01"> <img src="https://img.shields.io/badge/Arya-Github-magenta?style=for-the-badge&logo=github" alt="Arya Github" /> </a>
-<a href="https://github.com/zxcskyy"> <img src="https://img.shields.io/badge/Kyy-Github-magenta?style=for-the-badge&logo=github" alt="Kyy Github" /> </a>
-</p>
-
 ```
+
 This Bot is Created by ShinobuProject, If your kanging this without fork at least give a credit to get a smile of my hard work. 
+
 - SiestaRobot
+
 - EmikoRobot
+
 - YoneRobot
+
 - SaitamaRobot 
+
 - TheRealPhoenixBot
+
 - DaisyX 
+
 - WilliamButcherBot
+
 ```
+
+
+
+
+
+
+
+
