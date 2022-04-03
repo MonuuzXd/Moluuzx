@@ -83,10 +83,10 @@ def get_readable_time(seconds: int) -> str:
     return ping_time
 
 
-SIESTA_IMG = "https://telegra.ph/file/6d3e3ef24f64fb6e35df0.jpg"
+SIESTA_IMG = "https://te.legra.ph/file/bd9cbfd276e25644eba08.jpg"
 
 DONATE_STRING = """Heya, glad to hear you want to donate!
- You can support the project by contacting @saint_foire \
+ You can support the project by contacting @itz_me_monuuz \
  Supporting isnt always financial! \
  Those who cannot provide monetary support are welcome to help us develop the bot at ."""
 
@@ -452,7 +452,7 @@ def siesta_about_callback(update, context):
                 ]
             ),
         )
-    elif query.data == "siesta_support":
+    elif query.data == "moluuzxsupport":
         query.message.edit_text(
             text=gs(chat.id, "pm_about_support_text"),
             parse_mode=ParseMode.MARKDOWN,
@@ -470,7 +470,7 @@ def siesta_about_callback(update, context):
         )
 
 
-    elif query.data == "siesta_credit":
+    elif query.data == "moluuzx_credit":
         query.message.edit_text(
             text=gs(chat.id, "pm_about_credit_text"),
             parse_mode=ParseMode.MARKDOWN,
