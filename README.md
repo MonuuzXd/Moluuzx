@@ -34,7 +34,7 @@
 </h2>
 
 <p align="center">
-<a href="https://t.me/itz_me_monuuz"> <img src="https://img.shields.io/badge/Vain-User-green?style=for-the-badge&logo=telegram" alt="Monuuz on Telegram" /> </a>
+<a href="https://t.me/itz_me_monuuz"> <img src="https://img.shields.io/badge/Monuuz-User-green?style=for-the-badge&logo=telegram" alt="Monuuz on Telegram" /> </a>
 <a href="https://t.me/musicstreetgroup"> <img src="https://img.shields.io/badge/Support-Chat-green?style=for-the-badge&logo=telegram" alt="Support Chat" /> </a>
 <a href="https://t.me/moonuuuzking"> <img src="https://img.shields.io/badge/Update-Channel-green?style=for-the-badge&logo=telegram" alt="Update Channel" /> </a>
 </p>
